@@ -1,4 +1,4 @@
-class Bear < Formula
+class BearAT3020 < Formula
   desc "Generate compilation database for clang tooling"
   homepage "https://github.com/rizsotto/Bear"
   url "https://github.com/rizsotto/Bear/archive/3.0.20.tar.gz"
